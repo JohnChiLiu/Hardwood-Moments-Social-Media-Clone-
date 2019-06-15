@@ -411,7 +411,6 @@ header .search-area ul li {
     color: #A8A8A8;
     font-size: 10px;
     float: right;
-    margin-right: -30px;
 }
 
 #content-area .main-area .body .post-comments .user-comment .user-info {
@@ -447,10 +446,10 @@ header .search-area ul li {
 #content-area .main-area .body .post-forms .form-info {
     display: inline-block;
     float: left;
-    width: 1000px;
+    width: 80%;
     margin-left: 10px;
     font-size: 14px;
-    padding: 10px 100px 10px 0;
+    padding: 10px 15px 10px 0;
     border-bottom: 1px solid #ababab;
 }
 
@@ -470,7 +469,7 @@ header .search-area ul li {
 #content-area .main-area .body .post-forms .form-info .icons {
     display: inline-block;
     float: right;
-    margin-right: -100px;
+    /* margin-right: -100px; */
 }
 
 #content-area .main-area .body .post-forms .form-info .icons .fas {
