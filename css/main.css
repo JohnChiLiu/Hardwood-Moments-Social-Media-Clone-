@@ -123,6 +123,7 @@ header .search-area ul li {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    width: 1432px;
 }
 
 #top-area .profile-info .user-image {
